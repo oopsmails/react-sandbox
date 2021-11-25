@@ -8,9 +8,9 @@ function MainNavigation() {
   const favoritesCtx = useContext(FavoritesContext);
 
   return (
-    <header className={classes.header}>
+    <header>
+      <nav className="navbar navbar-expand-md navbar-dark bg-dark">
       <div className={classes.logo}>React Meetups</div>
-      <nav>
         <ul>
           <li>
             <Link to='/'>All Meetups</Link>
