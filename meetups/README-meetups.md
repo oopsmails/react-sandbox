@@ -46,7 +46,19 @@ React Crash Course for Beginners 2021 Learn ReactJS from Scratch.mp4
 
 ## Notes
 
+### Run
+
+```
+npm i
+npm start
+```
 
 ### 02:41:45 of 03:51:55: Firebase setup
+
+- oopsmails, firebase, OopsDB
+
+https://oopsdb-9aead-default-rtdb.firebaseio.com/
+
+
 
 
